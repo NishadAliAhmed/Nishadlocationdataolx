@@ -1,0 +1,29 @@
+db.location.insert(
+[
+    {
+        "location_id": 1,
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India"
+    },
+    {
+        "location_id": 2,
+        "state_id": 2,
+        "state": "Coimbatore",
+        "country_name": "India"
+    },
+    {
+        "location_id": 3,
+        "state_id": 3,
+        "state": "Madurai",
+        "country_name": "India"
+    },
+    {
+        "location_id": 4,
+        "state_id": 4,
+        "state": "KanyaKumari",
+        "country_name": "India"
+    }
+]
+)
+    
